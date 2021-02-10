@@ -1,0 +1,7 @@
+.myDiv{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 7%;
+    box-shadow: 1px 1px 5px gray;
+    padding: 10px;
+}
